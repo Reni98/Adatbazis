@@ -1,0 +1,10 @@
+(1, 'Matematika'),
+    (2, 'Fizika'),
+    (3, 'Kémia'),
+    (4, 'Irodalom'),
+    (5, 'Angol'),
+    (6, 'Történelem'),
+    (7, 'Biológia'),
+    (8, 'Testnevelés'),
+    (9, 'Művészetek'),
+    (10, 'Informatika');

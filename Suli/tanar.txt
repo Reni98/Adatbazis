@@ -1,0 +1,10 @@
+(100, 'Németh', 'Gábor', 'Matematika'),
+    (101, 'Kovács', 'Éva', 'Fizika'),
+    (102, 'Szabó', 'Miklós', 'Kémia'),
+    (103, 'Tóth', 'Zsuzsa', 'Irodalom'),
+    (104, 'Horváth', 'László', 'Angol'),
+    (105, 'Juhász', 'Katalin', 'Történelem'),
+    (106, 'Papp', 'József', 'Biológia'),
+    (107, 'Molnár', 'Anna', 'Testnevelés'),
+    (108, 'Varga', 'Gábor', 'Művészetek'),
+    (109, 'Kiss', 'Réka', 'Informatika');
